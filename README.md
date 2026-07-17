@@ -27,5 +27,7 @@ A virtualised Windows Server 2019 environmnet built to simulate and enterprise n
  <img width="1415" height="570" alt="Screenshot 2026-07-17 163812" src="https://github.com/user-attachments/assets/88d12dd5-bf26-4d67-a544-640a04de43dd" />
 
 # Challenges and Troubleshoots
+1. One initial hurdle that bugged me during the development was due to my ignorance at the beginning of the project. The client device initially refused to connect after hooking it up the virtual network, this was due to the internal dns being assigned to the APIPA address, which was caused because i had completely forgot to assign the static ip of the intenral NIC. After restarting the servers it worked.
+2. 
 
 <img width="1110" height="590" alt="Screenshot 2026-07-17 164616" src="https://github.com/user-attachments/assets/8a6a1cff-77bb-42b0-b58f-d2d9cdc8ae62" />
