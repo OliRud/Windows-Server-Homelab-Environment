@@ -22,5 +22,5 @@ A virtualised Windows Server 2019 environmnet built to simulate and enterprise n
 
 # Challenges and Troubleshoots
 
-<img width="600" height="102" alt="20260717_012322" src="https://github.com/user-attachments/assets/feb25895-b25a-40aa-a504-f74960f8e70f" />
+<img width="600" height="1002" alt="20260717_012322" src="https://github.com/user-attachments/assets/feb25895-b25a-40aa-a504-f74960f8e70f" />
 <img width="1110" height="190" alt="Screenshot 2026-07-17 164616" src="https://github.com/user-attachments/assets/8a6a1cff-77bb-42b0-b58f-d2d9cdc8ae62" />
