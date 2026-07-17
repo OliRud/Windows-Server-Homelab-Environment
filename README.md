@@ -1,5 +1,5 @@
 
-<img width="1415" height="470" alt="Screenshot 2026-07-17 163812" src="https://github.com/user-attachments/assets/88d12dd5-bf26-4d67-a544-640a04de43dd" />
+<img width="1415" height="570" alt="Screenshot 2026-07-17 163812" src="https://github.com/user-attachments/assets/88d12dd5-bf26-4d67-a544-640a04de43dd" />
 
 # Project Overview
 A virtualised Windows Server 2019 environmnet built to simulate and enterprise network. This project demonstrates core systems administration skills including Active Directory management, network service configuration, and PowerShell automation.
